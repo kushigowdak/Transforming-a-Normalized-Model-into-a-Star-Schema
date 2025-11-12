@@ -1,6 +1,5 @@
 # 🌟 Transforming a Normalized Model into a Star Schema
-
-**Date:** 06-11-2025  
+ 
 
 ---
 
